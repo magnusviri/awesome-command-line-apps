@@ -335,6 +335,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [Kakoune](http://kakoune.org) - Modal editor with multiple selections and orthogonal design.
 - [Micro](https://github.com/zyedidia/micro) - Modern and intuitive text editor.
 - [Neovim](https://neovim.io) - Modern version of the Vim editor with many advanced features.
+- [Textadept](https://foicica.com/textadept/) - Textadept is a fast, minimalist, and remarkably extensible cross-platform text editor with an ncurses version.
 - [Vim](http://www.vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 - [Vis](https://github.com/martanne/vis) - Highly efficient text editor.
 
